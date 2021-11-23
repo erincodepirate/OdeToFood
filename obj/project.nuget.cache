@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vllgy+TUZkCWussPlifUiok0PzxCm/9xEVZFZXmGey45gYaHbujwP7RRd6e/45ITRo9krEqzSkRiphMXcePZOg==",
+  "success": true,
+  "projectFilePath": "/home/erin/devel/OdeToFood/OdeToFood.csproj",
+  "expectedPackageFiles": [
+    "/home/erin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
